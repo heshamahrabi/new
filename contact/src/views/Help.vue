@@ -56,6 +56,6 @@
 </template>
 <script>
 export default {
-  name :'hepl'
-}
+  name: "help"
+};
 </script>
