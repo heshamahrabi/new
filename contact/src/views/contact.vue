@@ -1,14 +1,22 @@
 <template>
   <div class="contact">
-    <ContactVue />
+    <h1>Denkformat GmbH</h1>
+    <h2>
+      Denkformat GmbH & Co. KG <br />
+      Brandsende 2 - 4<br />
+      20095 Hamburg
+    </h2>
   </div>
 </template>
 <script>
-import ContactVue from "@/components/ContactVue.vue";
 export default {
-  name: "contact",
-  components: {
-    ContactVue
-  }
+  name: "contact"
 };
 </script>
+
+<style>
+h1 {
+  font-size: 40px;
+  color: cadetblue;
+}
+</style>
