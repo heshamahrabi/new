@@ -17,7 +17,7 @@
       these smart rooms ham. No waiting in on enjoyed placing it inquiry.
       Unpacked now declared put you confined daughter improved. Celebrated
       imprudence few interested especially reasonable off one. Wonder bed elinor
-      family secure met. It want gave west into high no in. Depend repair met
+      family secure met. It want gave west into high no i n. Depend repair met
       before man admire see and. An he observe be it covered delight hastily
       message. Margaret no ladyship endeavor ye to settling. Consider now
       provided laughter boy landlord dashwood. Often voice and the spoke. No
@@ -56,6 +56,6 @@
 </template>
 <script>
 export default {
-  name: "help"
+  name: "help",
 };
 </script>
